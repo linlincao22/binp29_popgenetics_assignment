@@ -37,7 +37,12 @@ http://127.0.0.1:6625/
 ![截屏2024-02-26 14 10 09](https://github.com/linlincao22/binp29_popgenetics_assignment/assets/112622493/3d6d4ed9-e2c7-48a4-8e39-0cc30b948f0d)
 
 
-you should check the example data table format before uploading your own data,detailed information can be found in information besides the uploading location ![截屏2024-02-26 14 17 01](https://github.com/linlincao22/binp29_popgenetics_assignment/assets/112622493/3468fdd1-638d-4603-b6d8-ccd9b9bbafa9)
+
+
+
+you should check the example data table format before uploading your own data,detailed information can be found in information besides the uploading location, yu can also check the example table format
+
+![截屏2024-02-26 14 17 01](https://github.com/linlincao22/binp29_popgenetics_assignment/assets/112622493/3468fdd1-638d-4603-b6d8-ccd9b9bbafa9)
 
 
 
