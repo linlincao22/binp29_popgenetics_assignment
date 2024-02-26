@@ -44,5 +44,11 @@ you should check the example data table format before uploading your own data,de
 
 ![截屏2024-02-26 14 17 01](https://github.com/linlincao22/binp29_popgenetics_assignment/assets/112622493/3468fdd1-638d-4603-b6d8-ccd9b9bbafa9)
 
+![截屏2024-02-26 14 19 12](https://github.com/linlincao22/binp29_popgenetics_assignment/assets/112622493/ad85784a-b898-47cd-ad19-b59d2f204a7c)
+
+
+After uploading your own data, and you can select several interested populations from a down and generating circos plot by click "Start!" button
+![截屏2024-02-26 14 21 22](https://github.com/linlincao22/binp29_popgenetics_assignment/assets/112622493/e6ed2ee9-357c-474b-8817-a52d06d1f269)
+
 
 
