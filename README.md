@@ -34,6 +34,9 @@ please put the app.R script and two CSV files in the same file folder, after ins
 
 # 5. For quckily use this app: 
 http://127.0.0.1:6625/
+![截屏2024-02-26 14 10 09](https://github.com/linlincao22/binp29_popgenetics_assignment/assets/112622493/3d6d4ed9-e2c7-48a4-8e39-0cc30b948f0d)
+
+
 
 
 
