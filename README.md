@@ -17,16 +17,27 @@ their populatin data including popname , popsize and mean_IBD data to a web, the
 All the code are runned in R version 4.3.2
 packages: 
 Shiny (version = 1.7.5)
+
 bslib (version = 0.6.1)
+
 shinyWidgets (version = 0.8.1)
+
 DT (version = 0.32)
+
 bsicons (version = 0.1.2)
+
 data.table (version = 1.15.0)
+
 circlize (version = 0.4.16)
+
 RColorBreWer (version = 1.1.3)
+
 ComplexHeatmap (version = 2.16.0)
+
 gridBase (version = 0.4.7)
+
 shinycssloaders (version = 1.0.0)
+
 
 # 4. Circos plot and R shiny
 for code please check the app.R code 
