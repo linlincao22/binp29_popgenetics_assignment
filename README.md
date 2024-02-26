@@ -33,5 +33,6 @@ for code please check the app.R code
 please put the app.R script and two CSV files in the same file folder, after installing all packages and make sure you have the right R version (4.3.2), you can run this app.
 
 # 5. For quckily use this app: 
-[http://127.0.0.1:6625/](http://123.60.175.69/pop/)http://123.60.175.69/pop/
+http://123.60.175.69/pop/
+
 
