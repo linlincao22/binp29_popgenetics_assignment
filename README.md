@@ -1,12 +1,12 @@
 ---
-title: "Circos plot and R shiny to visualize Identity Breed Descent data for interested populations "
+title: "Circos plot and R shiny to visualize Identity By Descent data for interested populations "
 author: "linlin Cao"
 date: 2024.02.24 - 2024.02.26
 
 ---
 
 # 1. Purpose 
-This project generated an user fridendly web application to draw a circos plot showing the identity breed descent data for 
+This project generated an user fridendly web application to draw a circos plot showing the identity by descent data for 
 selected populations people interested from a csv file they uploaded.
 
 # 2. Steps
